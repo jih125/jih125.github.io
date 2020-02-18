@@ -1247,7 +1247,7 @@ section.lazy-placeholder:after {
 .cid-rzMr7rM4hq {
   padding-top: 90px;
   padding-bottom: 60px;
-  background-color: #3e97d1;
+  background-color: #ffffff;
 }
 .cid-rzMr7rM4hq .mbr-iconfont {
   font-size: 34px;
@@ -1273,7 +1273,7 @@ section.lazy-placeholder:after {
   padding-bottom: 2rem;
 }
 .cid-rzMr7rM4hq .row-item:hover .card-img .mbr-iconfont {
-  color: #c1c1c1 !important;
+  color: #8ba0ff !important;
 }
 @media (max-width: 767px) {
   .cid-rzMr7rM4hq .card-img,
@@ -1286,15 +1286,15 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rzMr7rM4hq .mbr-text {
-  color: #efefef;
+  color: #c1c1c1;
 }
 .cid-rzMr7rM4hq .mbr-section-title,
 .cid-rzMr7rM4hq .underline {
-  color: #ffffff;
+  color: #444444;
 }
 .cid-rzMr7rM4hq .mbr-card-title,
 .cid-rzMr7rM4hq .card-img {
-  color: #ffffff;
+  color: #333333;
 }
 .cid-rQO6cGn5lN .modal-body .close {
   background: #1b1b1b;
@@ -1588,6 +1588,9 @@ section.lazy-placeholder:after {
   .cid-rQPbemuev2 .underline {
     text-align: center !important;
   }
+}
+.cid-rQPbemuev2 .mbr-text {
+  color: #c1c1c1;
 }
 .cid-rzMrdh7IU7 {
   padding-top: 45px;
