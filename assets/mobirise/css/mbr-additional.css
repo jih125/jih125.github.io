@@ -1072,8 +1072,11 @@ section.lazy-placeholder:after {
 .cid-rQNKNJ06J5 .card-title {
   text-align: left;
 }
+.cid-rQNKNJ06J5 H2 {
+  text-align: center;
+}
 .cid-rQOepop1s3 {
-  background-image: url("../../../assets/images/background77.jpg");
+  background-image: url("../../../assets/images/wordle-2-1000x514.jpeg");
 }
 .cid-rQOepop1s3 .mbr-section {
   padding: 0;
@@ -1209,34 +1212,34 @@ section.lazy-placeholder:after {
   background: #8ba0ff;
 }
 .cid-rQOepop1s3 .progress1 .progressbar-number:before {
-  content: '100';
+  content: '58';
 }
 .cid-rQOepop1s3 .progress2 .progressbar-number:before {
-  content: '63';
+  content: '86';
 }
 .cid-rQOepop1s3 .progress3 .progressbar-number:before {
-  content: '41';
+  content: '68';
 }
 .cid-rQOepop1s3 .progress4 .progressbar-number:before {
-  content: '28';
+  content: '75';
 }
 .cid-rQOepop1s3 .progress5 .progressbar-number:before {
-  content: '10';
+  content: '74';
 }
 .cid-rQOepop1s3 .progress-bar-1 {
-  width: 100%;
+  width: 58%;
 }
 .cid-rQOepop1s3 .progress-bar-2 {
-  width: 63%;
+  width: 86%;
 }
 .cid-rQOepop1s3 .progress-bar-3 {
-  width: 41%;
+  width: 68%;
 }
 .cid-rQOepop1s3 .progress-bar-4 {
-  width: 28%;
+  width: 75%;
 }
 .cid-rQOepop1s3 .progress-bar-5 {
-  width: 10%;
+  width: 74%;
 }
 .cid-rQOepop1s3 H3 {
   text-align: left;
@@ -1270,7 +1273,7 @@ section.lazy-placeholder:after {
   padding-bottom: 2rem;
 }
 .cid-rzMr7rM4hq .row-item:hover .card-img .mbr-iconfont {
-  color: #ffbc00 !important;
+  color: #c1c1c1 !important;
 }
 @media (max-width: 767px) {
   .cid-rzMr7rM4hq .card-img,
@@ -1540,6 +1543,9 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rQO6cGn5lN H2 {
+  text-align: center;
+}
+#instagram-feed-block-n .inst__title {
   text-align: center;
 }
 .cid-rQPbemuev2 {
