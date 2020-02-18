@@ -1537,6 +1537,47 @@ section.lazy-placeholder:after {
 .cid-rQO6cGn5lN .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-rQPbemuev2 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rQPbemuev2 .mbr-iconfont {
+  font-size: 34px;
+  transition: color .3s;
+}
+.cid-rQPbemuev2 .mbr-section-title {
+  margin: 0;
+}
+.cid-rQPbemuev2 .underline {
+  margin-top: -0.5rem;
+  margin-bottom: -0.5rem;
+}
+.cid-rQPbemuev2 .underline .line {
+  width: 3rem;
+  height: 2px;
+  background: #444444;
+  display: inline-block;
+}
+.cid-rQPbemuev2 .card-img {
+  text-align: left;
+}
+.cid-rQPbemuev2 .row-item {
+  padding-bottom: 2rem;
+}
+.cid-rQPbemuev2 .row-item:hover .card-img .mbr-iconfont {
+  color: #ffbc00 !important;
+}
+@media (max-width: 767px) {
+  .cid-rQPbemuev2 .card-img,
+  .cid-rQPbemuev2 .mbr-text,
+  .cid-rQPbemuev2 .mbr-card-title,
+  .cid-rQPbemuev2 .mbr-section-subtitle,
+  .cid-rQPbemuev2 .mbr-section-title,
+  .cid-rQPbemuev2 .underline {
+    text-align: center !important;
+  }
+}
 .cid-rzMrdh7IU7 {
   padding-top: 45px;
   padding-bottom: 45px;
